@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/weathersite-new/static/js/main.f1efac01.js",
+    "index.html": "/weathersite-new/index.html",
+    "main.f1efac01.js.map": "/weathersite-new/static/js/main.f1efac01.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f1efac01.js"
+  ]
+}
